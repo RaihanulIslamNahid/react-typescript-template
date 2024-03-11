@@ -40,7 +40,7 @@ To build for production
 -   Use prettierrc file to configure formatting rules
 
 ## Useful links
-- [GSAP docs](https://greensock.com/docs/)
+- [React docs](https://react.dev/reference/react)
 - [Vite docs](https://vitejs.dev/config/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
