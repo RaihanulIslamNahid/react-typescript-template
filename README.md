@@ -1,10 +1,5 @@
-![Capture d'écran_20230207_152738](https://user-images.githubusercontent.com/5593293/217272663-11b13e91-0a1d-444b-acf0-f15813a02704.png)
 
-# Vite template builder to quickly generate Front-end code.
-
-This repository will help create Front-end code to quickly test some animation effects. It is powered by [Vite](https://vitejs.dev/guide/why.html) ⚡️ that quickly compiles anything you need, it is also including [Sass](https://sass-lang.com/guide), [Babel](https://babeljs.io/), [Eslint](https://eslint.org/), [Prettier](https://prettier.io/), [lil-gui](https://www.npmjs.com/package/lil-gui) and [GSAP](https://greensock.com/docs/) for animations.
-
-## [See it live](https://robpayot.github.io/vite-template/)
+# Vite template builder to quickly generate React + Typescript code.
 
 ## How to install
 

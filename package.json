@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "vite-template",
+  "name": "react-typescript-template",
   "version": "0.0.0",
   "description": "Template to quickly make Front-end effect powered by Vite.",
   "author": "Robin Payot <robpayot@gmail.com>",

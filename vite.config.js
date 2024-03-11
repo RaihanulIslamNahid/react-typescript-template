@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   root: 'src',
-  base: '/issey-miyake/', // Change to the name of your repo for Github pages, otherwise use './'
+  base: '/react-typescript/', // Change to the name of your repo for Github pages, otherwise use './'
   build: {
     outDir: '../dist',
   },
